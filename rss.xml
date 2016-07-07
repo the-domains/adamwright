@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[adamwright]]></title>
         <description><![CDATA[adamwright]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/adamwright/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 12:50:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jul 2016 16:38:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/adamwright/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac554f5e-c4d7-4524-a8ba-30815a33869a.jpg">]]></description>
+            <link>https://thegrid.ai/adamwright/why-i-watch-american-ninja-warrior/index.html</link>
+            <guid isPermaLink="false">4bb0ede7-d636-458e-b392-ea1b0c97a3c0</guid>
+            <pubDate>Thu, 07 Jul 2016 16:38:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ Adam Wright ]]></title>
             <description><![CDATA[<article><h1> Adam Wright </h1><p> TV Producer / Writer</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9532728-1e54-4c43-894f-7e3da1a2a123.png"></article>]]></description>
-            <link>undefinedadam-wright/index.html</link>
+            <link>https://thegrid.ai/adamwright/adam-wright/index.html</link>
             <guid isPermaLink="false">92c74a52-a35c-454b-9887-aaeb31f17f19</guid>
             <pubDate>Mon, 16 May 2016 12:50:05 GMT</pubDate>
         </item>
